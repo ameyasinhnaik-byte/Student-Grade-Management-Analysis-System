@@ -37,13 +37,13 @@ This project demonstrates concepts from **Data Structures, File Handling, and Sy
 | `stdev SUBJECT` | Computes standard deviation of marks |
 
 ### Example
-grade 612303001 dsa
-sgpa 612303001 2
-cgpa 612303001
-failed 612303001
-topsub dsa
-topnsub dsa 5
-stdev dsa
+grade 612303001 dsa <br>
+sgpa 612303001 2 <br>
+cgpa 612303001 <br>
+failed 612303001 <br>
+topsub dsa <br>
+topnsub dsa 5 <br>
+stdev dsa <br>
 
 ---
 
