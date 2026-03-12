@@ -1,0 +1,10 @@
+grade 612303034 mpt
+grade all
+cgpa 612303057
+sgpa 612303057 3
+failed 111309149
+topsem 2
+topsub dsa
+topnsub pspp 5
+stdev ppl
+exit
